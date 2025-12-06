@@ -8,13 +8,11 @@
   <strong>Simple, yet powerful vulnerability intelligence at your fingertips</strong>
 </p>
 
-<p align="center">
-  <a href="#features">Features</a> •
-  <a href="#risk-scoring">Risk Scoring</a> •
-  <a href="#getting-started">Getting Started</a> •
-  <a href="#contributing">Contributing</a> •
-  <a href="#license">License</a>
-</p>
+[Features](#features)
+[Risk Scoring](#risk-scoring)
+[Getting Started](#getting-started)
+[Contributing](#contributing)
+[License](#⚖️-License)
 
 ---
 
