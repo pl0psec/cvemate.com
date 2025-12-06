@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="docs/cvemate-color.png" alt="CveMate logo" width="200" />
+  <img src="assets/cvemate-color.png" alt="CveMate logo" width="200" />
 </p>
 
 <h1 align="center">CveMate</h1>
