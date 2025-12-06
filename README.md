@@ -12,7 +12,7 @@
 [Risk Scoring](#risk-scoring)
 [Getting Started](#getting-started)
 [Contributing](#contributing)
-[License](#⚖️-License)
+[License](#License)
 
 ---
 
@@ -62,7 +62,7 @@ Your contributions help make vulnerability management better for everyone.
 
 Join our growing community of security professionals who are simplifying their vulnerability management workflows with CveMate.
 
-## ⚖️ License
+## License
 
 This project is licensed under the terms specified in [LICENSE.md](./LICENSE.md).
 
