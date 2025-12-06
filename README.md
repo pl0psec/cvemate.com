@@ -8,23 +8,27 @@
   <strong>Simple, yet powerful vulnerability intelligence at your fingertips</strong>
 </p>
 
-[Features](#features)
-[Risk Scoring](#risk-scoring)
-[Getting Started](#getting-started)
-[Contributing](#contributing)
-[License](#License)
+<p align="center">
+  <a href="#features">Features</a> •
+  <a href="#risk-scoring">Risk Scoring</a> •
+  <a href="#getting-started">Getting Started</a> •
+  <a href="#contributing">Contributing</a> •
+  <a href="#license">License</a>
+</p>
 
 ---
 
-## 🎯 Overview
+## Overview
 
-CveMate transforms vulnerability management by unifying critical security intelligence into a single, elegant platform. Security teams can now access comprehensive vulnerability data without the complexity of managing multiple disparate sources.
+🎯 CveMate transforms vulnerability management by unifying critical security intelligence into a single, elegant platform. Security teams can now access comprehensive vulnerability data without the complexity of managing multiple disparate sources.
 
-## 🚀 Getting Started
+## Getting Started
 
-Visit [cvemate.com](https://cvemate.com) to begin streamlining your vulnerability management workflow.
+🚀 Visit [cvemate.com](https://cvemate.com) to begin streamlining your vulnerability management workflow.
 
-## ✨ Features
+## Features
+
+✨ Explore the platform capabilities that centralize your vulnerability intelligence.
 
 ### **Unified Intelligence Hub**
 Access everything in one place:
@@ -39,17 +43,17 @@ Access everything in one place:
 - 🔍 **Darkweb Monitoring** *(Experimental)* - Early warnings from underground forums
 - ⚡ **Real-time Updates** - Stay ahead of emerging threats
 
-## 📊 Risk Scoring
+## Risk Scoring
 
-CveMate calculates an **Overall Risk Score** (0-100) for each vulnerability by combining multiple threat indicators.
+📊 CveMate calculates an **Overall Risk Score** (0-100) for each vulnerability by combining multiple threat indicators.
 
 The score is further adjusted by conditional rules that handle specific threat scenarios like active exploitation campaigns, AI-detected emergencies, and critical severity combinations.
 
 **[Read the full scoring methodology →](./SCORING.md)**
 
-## 🤝 Contributing
+## Contributing
 
-Your contributions help make vulnerability management better for everyone.
+🤝 Your contributions help make vulnerability management better for everyone.
 
 ### How You Can Help
 
@@ -58,17 +62,17 @@ Your contributions help make vulnerability management better for everyone.
 
 **Open an issue or contribute:** [github.com/pl0psec/cvemate.com/issues](https://github.com/pl0psec/cvemate.com/issues)
 
-## 💬 Community
+## Community
 
-Join our growing community of security professionals who are simplifying their vulnerability management workflows with CveMate.
+💬 Join our growing community of security professionals who are simplifying their vulnerability management workflows with CveMate.
 
 ## License
 
-This project is licensed under the terms specified in [LICENSE.md](./LICENSE.md).
+⚖️ This project is licensed under the terms specified in [LICENSE.md](./LICENSE.md).
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
-CveMate is a passion project maintained during spare time. Special thanks to all contributors and the security community for their invaluable feedback and support.
+🙏 CveMate is a passion project maintained during spare time. Special thanks to all contributors and the security community for their invaluable feedback and support.
 
 ---
 
