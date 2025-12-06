@@ -10,6 +10,7 @@
 
 <p align="center">
   <a href="#features">Features</a> •
+  <a href="#risk-scoring">Risk Scoring</a> •
   <a href="#getting-started">Getting Started</a> •
   <a href="#contributing">Contributing</a> •
   <a href="#license">License</a>
@@ -20,6 +21,10 @@
 ## 🎯 Overview
 
 CveMate transforms vulnerability management by unifying critical security intelligence into a single, elegant platform. Security teams can now access comprehensive vulnerability data without the complexity of managing multiple disparate sources.
+
+## 🚀 Getting Started
+
+Visit [cvemate.com](https://cvemate.com) to begin streamlining your vulnerability management workflow.
 
 ## ✨ Features
 
@@ -36,20 +41,22 @@ Access everything in one place:
 - 🔍 **Darkweb Monitoring** *(Experimental)* - Early warnings from underground forums
 - ⚡ **Real-time Updates** - Stay ahead of emerging threats
 
-## 🚀 Getting Started
+## 📊 Risk Scoring
 
-Visit [cvemate.com](https://cvemate.com) to begin streamlining your vulnerability management workflow.
+CveMate calculates an **Overall Risk Score** (0-100) for each vulnerability by combining multiple threat indicators.
+
+The score is further adjusted by conditional rules that handle specific threat scenarios like active exploitation campaigns, AI-detected emergencies, and critical severity combinations.
+
+**[Read the full scoring methodology →](./SCORING.md)**
 
 ## 🤝 Contributing
 
-CveMate thrives on community collaboration. Your contributions help make vulnerability management better for everyone.
+Your contributions help make vulnerability management better for everyone.
 
 ### How You Can Help
 
 - 🐛 **Report bugs** - Help us improve stability
-- 📚 **Enhance documentation** - Make CveMate easier to use
 - 💡 **Suggest features** - Share your ideas for new capabilities
-- 🔧 **Submit pull requests** - Contribute code improvements
 
 **Open an issue or contribute:** [github.com/pl0psec/cvemate.com/issues](https://github.com/pl0psec/cvemate.com/issues)
 
