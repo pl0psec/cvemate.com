@@ -11,6 +11,7 @@
 <p align="center">
   <a href="#features">Features</a> •
   <a href="#risk-scoring">Risk Scoring</a> •
+  <a href="#roadmap">Roadmap</a> •
   <a href="#getting-started">Getting Started</a> •
   <a href="#contributing">Contributing</a> •
   <a href="#license">License</a>
@@ -51,6 +52,26 @@ The score is further adjusted by conditional rules that handle specific threat s
 
 **[Read the full scoring methodology →](./SCORING.md)**
 
+## Roadmap
+
+🗺️ Upcoming features and improvements planned for CveMate.
+
+> **Vote for features!** Take the [Roadmap Poll](https://github.com/pl0psec/cvemate.com/discussions/2) to help prioritize what gets built next.
+
+### **Enhanced Asset Inventory**
+- [ ] 🏭 **Vendor Database** - Comprehensive vendor information and tracking
+- [ ] 📦 **Product Catalog** - Detailed product database with version mapping
+- [ ] ⏰ **End-of-Life Tracking** - EOL dates and support lifecycle information
+
+### **Developer & Integration Tools**
+- [ ] 🔌 **GraphQL API Access** - Programmatic access to vulnerability intelligence
+
+### **SBOM Scanner**
+- [ ] 📋 **Vulnerability Analysis** - Scan SBOMs for known vulnerabilities
+- [ ] 💥 **Exploitability Assessment** - Real-world exploit availability for SBOM components
+- [ ] ⏰ **Product EOL Information** - End-of-life status for software in your inventory
+- [ ] 📊 **Risk Scoring** - Comprehensive scoring for prioritization
+
 ## Contributing
 
 🤝 Your contributions help make vulnerability management better for everyone.
@@ -81,5 +102,5 @@ The score is further adjusted by conditional rules that handle specific threat s
 </p>
 
 <p align="center">
-  <sub>© 2025 CveMate. Simplifying vulnerability intelligence.</sub>
+  <sub>© 2026 CveMate. Simplifying vulnerability intelligence.</sub>
 </p>
